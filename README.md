@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/7wgzz2"  />
+<img align="right" height="150" src="New-file.gif"  />
 
 ###
 
@@ -55,7 +55,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Akshat04/Akshat04/output/snake.svg" alt="Snake animation" />
 
 ###
